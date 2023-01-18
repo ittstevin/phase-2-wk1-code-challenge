@@ -1,0 +1,86 @@
+.App-logo {
+  height: 50vmin;
+  pointer-events: none;
+}
+.App {
+  text-align: center;
+}
+.App-link {
+  color: white;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+div.NewTransaction{
+  color: black;
+ font-size: 19px;
+ font-family: sans-serif;
+}
+
+input{
+padding: 2px;
+margin-left: 30%;
+display: list-item;
+
+}
+button{
+  margin-top: 10PX;
+  padding: 10px;
+  border-radius: 18px;
+  margin-left: 10px;
+  background-color: grey;
+  border: none;
+  color: rgb(25, 25, 25);
+}
+
+label{
+  display:block;
+  margin-left: -30%;
+  margin-top: 15px;
+  color: rgb(215, 203, 203);
+  padding-bottom: 5px;
+}
+h2.PreviousHeader{
+  margin-left: -30%;
+}
+div.ListItem{
+  width:fit-content;
+  margin-left:30%;
+  color:rgb(222, 232, 222);
+}
+button.searchButton{
+  padding: 10px;
+  margin-top: 15px;
+  margin-left: -30%;
+  background-color: grey;
+  color: aliceblue;
+  border: none;
+  font-size: 18px;
+  color: white;
+}
+input.SearchButton{
+  display:flex; 
+  margin: auto;
+  height: 1.6em;
+  border-radius: 5px;
+}
+.App{
+  background-color: white;
+  margin: auto 10%;
+ 
+}
+h1.HeaderOne{
+ padding-top: 10%; 
+}
+table.TableBody{
+ font-size: 20px;
+ padding-bottom: 100%;
+ justify-content: space-between;
+}
