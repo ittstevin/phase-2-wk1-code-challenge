@@ -14,7 +14,7 @@ To be able to run this program on your computer.
 Open the terminal on your computer.
 Clone the repo from github using:
 
-    https://github.com/dancun616/phase-2-week-1
+    git@github.com:ittstevin/phase-2-wk1-code-challenge.git
 
 Navigate into into the repo folder:
 
