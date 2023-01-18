@@ -6,7 +6,7 @@ This is a prorgam that lets a user see various fetched transactions from a json 
 ### Alternative one 
 Click on the Github pages link provided and you will be directed to the application.
 
-    https://vocal-pegasus-e1c294.netlify.app/
+    https://frolicking-flan-164799.netlify.app/
 
 ### Alternative two
 ### installation
@@ -18,7 +18,7 @@ Clone the repo from github using:
 
 Navigate into into the repo folder:
 
-    cd phase-2-week-1
+    cd phase-2-week-1-code-challenge
 
 Open it in Visual Studio Code by typing:
 
