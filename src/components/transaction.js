@@ -7,7 +7,7 @@ function Transaction (){
     console.log(transactions)
 
     useEffect (()=>{
-      fetch ('https://dancun616.github.io/dancun616.flat.io/db.json')
+      fetch ('https://github.com/ittstevin/phase-2-wk1-code-challenge/blob/main/db.json')
       .then(response => response.json())
       .then((data) => 
         setTransactions(data.transactions))
